@@ -1,5 +1,7 @@
 # 안드로이드 어플리케이션 GOAL 버그현황 관리
+
 https://play.google.com/store/apps/details?id=com.lukewire.goal
+
 
 ### 기능상의 오류
 1. 디스플레이의 모드가 다크모드 일때
