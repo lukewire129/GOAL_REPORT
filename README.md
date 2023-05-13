@@ -1,4 +1,4 @@
-# 안드로이드 어플리케이션 GOAL 버그현황 관리
+# 안드로이드 어플리케이션 GOAL 기록 관리
 
 https://play.google.com/store/apps/details?id=com.lukewire.goal
 
