@@ -11,3 +11,4 @@ https://play.google.com/store/apps/details?id=com.lukewire.goal
 
 ### 개선사항
 1. 할일의 텍스트 누르는 방식이 어려움
+- UX 변경안 기획 다시시작!
